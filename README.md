@@ -1,1 +1,2 @@
-# OasisInfobyteT4
+This task was basically to separate the mails that we recieved daily as spam or ham(not spam). This could be done by using ML and train a model in such a way that we achieve higher accuracy in classifying the mails as spam or ham and for this I have used various Classification algorithm to classify the mails and to conclude that which model provides us a better accuracy.
+Along with this using wordcloud and various plots such as bar plots, histograms , I have visualized the data so that we can easily or classify the mails which are spam .
